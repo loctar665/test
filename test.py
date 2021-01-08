@@ -1,2 +1,1 @@
-print('close to the sun')
-print('hohohohoho')
+print(123)
